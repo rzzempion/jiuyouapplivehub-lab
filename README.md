@@ -1,2 +1,12 @@
 # jiuyouapplivehub-lab
-HTML page archive and documentation
+
+该仓库用于页面文件整理，不针对单个页面做额外说明。
+
+## 维护文件
+
+- 静态页面保存在根目录
+- README 提供简要说明
+
+## 说明
+
+本仓库用于页面托管和归档，具体文件以当前仓库内容为准。
